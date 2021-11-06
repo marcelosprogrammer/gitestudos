@@ -1,1 +1,3 @@
 -- projeto no git
+-- o projeto esta como deveria estar.
+-- precisamos resolver isto......
